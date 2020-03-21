@@ -1,5 +1,6 @@
 
 
+
 # Projeto de seleção Coopersystem  
   
 O teste consiste em criar uma mini aplicação que simula um resgate personalizado de fundos de investimentos em ações.  
@@ -15,9 +16,10 @@ Serão avaliados:
 * Teste unitários  
 	* Angular JS (karma/jasmine)  
 	* React native ( jest js )  
+	
   
-Obs: Os layouts dos protótipos são só ilustrativos, fiquem a vontade  
-para fazer suas modificações.  
+  
+**Obs:** Os layouts dos protótipos são só ilustrativos, podem usar os frameworks de ux/estilo de sua preferência.
   
 ### Protótipos  
 * React Native  
