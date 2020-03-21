@@ -29,9 +29,9 @@ para fazer suas modificações.
   
   
 * Angular JS  
-	* [Lista de investimentos](https://raw.githubusercontent.com/Leonardo270593/avaliacao-coopersystem/master/prototipos-angularJS/1%20-%20Lista%20de%20investimentos.png])  
-	* [Resgate personalizado](https://raw.githubusercontent.com/Leonardo270593/avaliacao-coopersystem/master/prototipos-angularJS/2%20-%20Simula%C3%A7%C3%A3o%20do%20resgate.png)  
-	* [Modal de confirmação](https://raw.githubusercontent.com/Leonardo270593/avaliacao-coopersystem/master/prototipos-angularJS/3%20-%20Confirma%C3%A7%C3%A3o.png)
+	* [Lista de investimentos](https://raw.githubusercontent.com/leonardo-coopersystem/avaliacao-coopersystem/master/prototipos-angularJS/1%20-%20Lista%20de%20investimentos.png)  
+	* [Resgate personalizado](https://raw.githubusercontent.com/leonardo-coopersystem/avaliacao-coopersystem/master/prototipos-angularJS/2%20-%20Simula%C3%A7%C3%A3o%20do%20resgate.png)  
+	* [Modal de confirmação](https://raw.githubusercontent.com/leonardo-coopersystem/avaliacao-coopersystem/master/prototipos-angularJS/3%20-%20Confirma%C3%A7%C3%A3o.png)
   
 ### Fluxo de navegação  
 * Lista de investimentos  
