@@ -12,11 +12,9 @@ Serão avaliados:
 * Navegação entre telas  
 * Validação de formulários conforme regras de negócios  
 * Padrões de codificação  
-  
-Itens Diferenciais  
 * Teste unitários  
-* Angular JS (karma/jasmine)  
-* React native ( jest js )  
+	* Angular JS (karma/jasmine)  
+	* React native ( jest js )  
   
 Obs: Os layouts dos protótipos são só ilustrativos, fiquem a vontade  
 para fazer suas modificações.  
