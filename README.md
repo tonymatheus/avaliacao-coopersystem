@@ -6,7 +6,7 @@
 O teste consiste em criar uma mini aplicação que simula um resgate personalizado de fundos de investimentos em ações.  
   
 Estamos buscando perfis tanto para web quando para mobile, fique a vontade  
-para realizar os testes nos 2 ambientes, ou somente o que no que se sentir mais confortável.  
+para realizar os testes nos 2 ambientes, ou somente no que se sentir mais confortável.  
   
 Serão avaliados:  
 * Integração com api rest
