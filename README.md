@@ -6,10 +6,10 @@
 O teste consiste em criar uma mini aplicação que simula um resgate personalizado de fundos de investimentos em ações.  
   
 Estamos buscando perfis tanto para web quando para mobile, fique a vontade  
-para realizar os testes nos 2 ambientes, ou somente oque no que se sentir mais confortável.  
+para realizar os testes nos 2 ambientes, ou somente o que no que se sentir mais confortável.  
   
 Serão avaliados:  
-* Integração com api rest!  
+* Integração com api rest
 * Navegação entre telas  
 * Validação de formulários conforme regras de negócios  
 * Padrões de codificação  
@@ -61,7 +61,7 @@ Enviar link do github com os testes para o email
 leonardo.guedes@coopersystem.com.br
 
 ### Telefone para duvidas
-61 9 8193-1274
+61 9 8194-1274
 
 ### JSON
 
