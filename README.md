@@ -10,7 +10,7 @@ Serão avaliados:
 * Navegação entre telas  
 * Validação de formulários conforme regras de negócios  
 * Padrões de codificação  
-* Teste unitários ( jest js )  
+* Testes unitários ( jest js )  
 	
  
 **Obs:** Os layouts dos protótipos são só ilustrativos, podem usar os frameworks de ux/estilo de sua preferência.
