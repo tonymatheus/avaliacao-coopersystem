@@ -17,9 +17,9 @@ Serão avaliados:
   
 ### Protótipos  
 * React Native  
-	* [Lista de investimentos](https://raw.githubusercontent.com/Leonardo270593/avaliacao-coopersystem/master/prototipos-react-native/1%20-%20Lista%20de%20investimentos.png)  
-	* [Resgate personalizado](https://raw.githubusercontent.com/Leonardo270593/avaliacao-coopersystem/master/prototipos-react-native/2%20-%20Simula%C3%A7%C3%A3o%20do%20resgate.png)  
-	* [Modal de confirmação](https://raw.githubusercontent.com/Leonardo270593/avaliacao-coopersystem/master/prototipos-react-native/3%20-%20Confirma%C3%A7%C3%A3o.png)
+	* [Lista de investimentos](https://github.com/leonardo-coopersystem/avaliacao-coopersystem/blob/master/prototipos-react-native/1%20-%20Lista%20de%20investimentos.png?raw=true)  
+	* [Resgate personalizado](https://github.com/leonardo-coopersystem/avaliacao-coopersystem/blob/master/prototipos-react-native/2%20-%20Simula%C3%A7%C3%A3o%20do%20resgate.png?raw=true)  
+	* [Modal de confirmação](https://github.com/leonardo-coopersystem/avaliacao-coopersystem/blob/master/prototipos-react-native/3%20-%20Confirma%C3%A7%C3%A3o.png?raw=true)
   
   
 ### Fluxo de navegação  
