@@ -1,24 +1,18 @@
 
 
 
-# Projeto de seleção Coopersystem  
+# Projeto de seleção Coopersystem (React Native)
   
 O teste consiste em criar uma mini aplicação que simula um resgate personalizado de fundos de investimentos em ações.  
-  
-Estamos buscando perfis tanto para web quando para mobile, fique a vontade  
-para realizar os testes nos 2 ambientes, ou somente no que se sentir mais confortável.  
   
 Serão avaliados:  
 * Integração com api rest
 * Navegação entre telas  
 * Validação de formulários conforme regras de negócios  
 * Padrões de codificação  
-* Teste unitários  
-	* Angular JS (karma/jasmine)  
-	* React native ( jest js )  
+* Teste unitários ( jest js )  
 	
-  
-  
+ 
 **Obs:** Os layouts dos protótipos são só ilustrativos, podem usar os frameworks de ux/estilo de sua preferência.
   
 ### Protótipos  
@@ -27,11 +21,6 @@ Serão avaliados:
 	* [Resgate personalizado](https://raw.githubusercontent.com/Leonardo270593/avaliacao-coopersystem/master/prototipos-react-native/2%20-%20Simula%C3%A7%C3%A3o%20do%20resgate.png)  
 	* [Modal de confirmação](https://raw.githubusercontent.com/Leonardo270593/avaliacao-coopersystem/master/prototipos-react-native/3%20-%20Confirma%C3%A7%C3%A3o.png)
   
-  
-* Angular JS  
-	* [Lista de investimentos](https://raw.githubusercontent.com/leonardo-coopersystem/avaliacao-coopersystem/master/prototipos-angularJS/1%20-%20Lista%20de%20investimentos.png)  
-	* [Resgate personalizado](https://raw.githubusercontent.com/leonardo-coopersystem/avaliacao-coopersystem/master/prototipos-angularJS/2%20-%20Simula%C3%A7%C3%A3o%20do%20resgate.png)  
-	* [Modal de confirmação](https://raw.githubusercontent.com/leonardo-coopersystem/avaliacao-coopersystem/master/prototipos-angularJS/3%20-%20Confirma%C3%A7%C3%A3o.png)
   
 ### Fluxo de navegação  
 * Lista de investimentos  
