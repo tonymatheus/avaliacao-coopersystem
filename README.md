@@ -10,6 +10,8 @@ Serão avaliados:
 * Navegação entre telas  
 * Validação de formulários conforme regras de negócios  
 * Padrões de codificação  
+
+Diferenciais
 * Testes unitários (karma/jasmine)  
 	
  
@@ -18,8 +20,8 @@ Serão avaliados:
 ### Protótipos  
 * Angular JS  
 	* [Lista de investimentos](https://github.com/leonardo-coopersystem/avaliacao-coopersystem/blob/master/prototipos-angularJS/1%20-%20Lista%20de%20investimentos.png?raw=true)  
-	* [Resgate personalizado](https://github.com/leonardo-coopersystem/avaliacao-coopersystem/blob/master/prototipos-angularJS/2%20-%20Simula%C3%A7%C3%A3o%20do%20resgate.png)  
-	* [Modal de confirmação](https://github.com/leonardo-coopersystem/avaliacao-coopersystem/blob/master/prototipos-angularJS/3%20-%20Confirma%C3%A7%C3%A3o.png)
+	* [Resgate personalizado](https://github.com/leonardo-coopersystem/avaliacao-coopersystem/blob/master/prototipos-angularJS/2%20-%20Simula%C3%A7%C3%A3o%20do%20resgate.png?raw=true)  
+	* [Modal de confirmação](https://github.com/leonardo-coopersystem/avaliacao-coopersystem/blob/master/prototipos-angularJS/3%20-%20Confirma%C3%A7%C3%A3o.png?raw=true)
   
   
 ### Fluxo de navegação  
