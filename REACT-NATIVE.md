@@ -25,28 +25,27 @@ Serão avaliados:
 ### Fluxo de navegação  
 * Lista de investimentos  
 	* Executar uma chamada get no endereço [http://www.mocky.io/v2/5e76797e2f0000f057986099](http://www.mocky.io/v2/5e76797e2f0000f057986099)
-	* Montar a  tela conforme o protótipo fazendo a integração com a resposta da execução do serviço acima.
+	* Montar a  tela conforme o protótipo fazendo a integração com serviço acima.
 	* Ao clicar em um plano que não esta em carência (indicadorCarencia = 'N'), navegar para próxima tela. 
 *  Resgate personalizado  
-	 * Montar a  tela conforme o protótipo usando as informações do investimento selecionado na tela anterior.
+	 * Montar a  tela conforme o protótipo usando as informações do fundo de investimento selecionado na tela anterior.
 	 * Digitar os valores que deseja resgatar de cada ação e clicar em confirmar resgate
 * Modal de confirmação
 	* Montar a  tela conforme o protótipo.
 
 ### Regras de Negocio  
-* Lista de investimentos  
+* Tela 1: Lista de investimentos  
 	* Fundos de investimentos em carência (indicadorCarencia = 'S') não pode realizar resgate, deve ficar desabilitado na lista de investimentos.  
   
 * Resgate personalizado  
 	* Valor a resgatar de cada ação não pode ser maior que saldo acumulado da mesma, deve ser exibido um alerta para cliente quando isso acontecer.  
 	* A cada interação, deve ser atualizado o valor total a resgatar.  
 	* Valor total a resgatar não pode ser maior que valor total disponível, deve ser exibido um alerta para cliente quando isso acontecer.  
-	* Ao clicar no botão de confirmar, alem de validar as regras acimas, deve validar se o valor total a resgatar e maior que 0, caso o contrario, deve exibir um alerta ao cliente para preencher os valores a resgatar da forma que ele deseja.  
-	* Ao clicar no botão cancelar, deve voltar pra tela de lista de investimentos.  
-	* Após todas a validações deve abrir o modal de confirmação.
+	* Ao clicar no botão de confirmar, alem de validar as regras acimas, deve validar se o valor total a resgatar não e igual a 0, caso o contrario, deve exibir um alerta ao cliente para preencher os valores a resgatar da forma que ele deseja.  
+	* Após todas a validações deve abrir o modal de resgate efetuado.
 
 ### Entrega
-Enviar link do github com os testes para o email
+Enviar link do git com os testes para o email
 leonardo.guedes@coopersystem.com.br
 
 ### Telefone para duvidas
