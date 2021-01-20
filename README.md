@@ -18,9 +18,9 @@ Diferenciais
 **Obs:** Os layouts dos protótipos são só ilustrativos, podem usar os frameworks de ux/estilo de sua preferência.
   
 ### Protótipos   
-	* [Lista de investimentos](https://github.com/leonardo-coopersystem/avaliacao-coopersystem/blob/master/prototipos-angularJS/1%20-%20Lista%20de%20investimentos.png?raw=true)  
-	* [Resgate personalizado](https://github.com/leonardo-coopersystem/avaliacao-coopersystem/blob/master/prototipos-angularJS/2%20-%20Simula%C3%A7%C3%A3o%20do%20resgate.png?raw=true)  
-	* [Modal de confirmação](https://github.com/leonardo-coopersystem/avaliacao-coopersystem/blob/master/prototipos-angularJS/3%20-%20Confirma%C3%A7%C3%A3o.png?raw=true)
+[01 - Lista de investimentos](https://github.com/leonardo-coopersystem/avaliacao-coopersystem/blob/master/prototipos-angularJS/1%20-%20Lista%20de%20investimentos.png?raw=true)  
+[02 - Resgate personalizado](https://github.com/leonardo-coopersystem/avaliacao-coopersystem/blob/master/prototipos-angularJS/2%20-%20Simula%C3%A7%C3%A3o%20do%20resgate.png?raw=true)  
+[03 - Modal de confirmação](https://github.com/leonardo-coopersystem/avaliacao-coopersystem/blob/master/prototipos-angularJS/3%20-%20Confirma%C3%A7%C3%A3o.png?raw=true)
   
   
 ### Fluxo de navegação  
