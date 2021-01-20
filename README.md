@@ -10,8 +10,6 @@ Serão avaliados:
 * Navegação entre telas  
 * Validação de formulários conforme regras de negócios  
 * Padrões de codificação  
-
-Diferenciais
 * Testes unitários (karma/jasmine)  
 	
  
