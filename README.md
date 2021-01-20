@@ -1,9 +1,9 @@
 
 
 
-# Projeto de seleção Coopersystem (Angular JS 1.X)
+# Projeto de seleção Coopersystem (Angular 10)
   
-O teste consiste em criar uma mini aplicação em angular js (1.x) que simula um resgate personalizado de fundos de investimentos em ações.  
+O teste consiste em criar uma mini aplicação em angular 10 que simula um resgate personalizado de fundos de investimentos em ações.  
   
 Serão avaliados:  
 * Integração com api rest
