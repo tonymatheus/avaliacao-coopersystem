@@ -1,7 +1,7 @@
 
 
 
-# Projeto de seleção Coopersystem (Angular 10)
+# Projeto de seleção Coopersystem (Angular 10+)
   
 O teste consiste em criar uma mini aplicação em angular 10 que simula um resgate personalizado de fundos de investimentos em ações.  
   
