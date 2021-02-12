@@ -57,7 +57,7 @@ Serão avaliados:
 - Clicar no investimento I
 - Digitar um valor acima do disponivel na primeira ação
 
-Ex: BBAS3 tem 11 mil de saldo, digitar 15 mil
+Ex: BBAS3 tem 11 mil de saldo, digitar 15 mil no valor a resgatar
 
 
 - Digitar um valor abaixo do disponivel na segunda ação
@@ -72,7 +72,7 @@ Ex: VALE3 tem 8 mil disponivel, digitar 2 mil no valor a resgatar
 - Clicar no investimento I
 - Digitar um valor acima igual o disponivel na primeira ação
 
-Ex: BBAS3 tem 11 mil de saldo, digitar 11 mil
+Ex: BBAS3 tem 11 mil de saldo, digitar 11 mil no valor a resgatar
 
 
 - Digitar um valor abaixo do disponivel na segunda ação
