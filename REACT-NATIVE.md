@@ -64,6 +64,7 @@ Ex: BBAS3 tem 11 mil de saldo, digitar 15 mil no valor a resgatar
 
 Ex: VALE3 tem 8 mil disponivel, digitar 2 mil no valor a resgatar
 
+- Clicar em confirmar
 
 - **Resultado esperado:** Deve aparecer um modal alertando que foi digitado um valor invalido na ação BBAS3, que o maximo disponivel e XXXXX.
 
@@ -79,6 +80,7 @@ Ex: BBAS3 tem 11 mil de saldo, digitar 11 mil no valor a resgatar
 
 Ex: VALE3 tem 8 mil disponivel, digitar 2 mil no valor a resgatar
 
+- Clicar em confirmar
 
 - **Resultado esperado:** Deve aparecer um modal com a mensagem que o resgate foi efetuado com sucesso, e quando clinar em novo resgate, voltar pra tela inicial.
 
