@@ -38,11 +38,50 @@ Serão avaliados:
 	* Fundos de investimentos em carência (indicadorCarencia = 'S') não pode realizar resgate, deve ficar desabilitado na lista de investimentos.  
   
 * Resgate personalizado  
+	* Realizar o calculo do saldo da ação usando o campo percentual, que e o percentual que essa ação representa no valor total do investimento.
 	* Valor a resgatar de cada ação não pode ser maior que saldo acumulado da mesma, deve ser exibido um alerta para cliente quando isso acontecer.  
-	* A cada interação, deve ser atualizado o valor total a resgatar.  
-	* Valor total a resgatar não pode ser maior que valor total disponível, deve ser exibido um alerta para cliente quando isso acontecer.  
+	* A cada interação, deve ser atualizado o campo valor total a resgatar.  
+	* Valor total a resgatar não pode ser maior que valor total disponível do investimento, deve ser exibido um alerta para cliente quando isso acontecer.  
 	* Ao clicar no botão de confirmar, alem de validar as regras acimas, deve validar se o valor total a resgatar não e igual a 0, caso o contrario, deve exibir um alerta ao cliente para preencher os valores a resgatar da forma que ele deseja.  
 	* Após todas a validações deve abrir o modal de resgate efetuado.
+
+### Cenário de teste
+
+#### 01 - Clicar em confirmar sem preenncher nenhum campo
+- Clicar no investimento I
+- Clicar em confirmar sem preencher nenhum valor
+- **Resultado esperado:** Deve aparecer um modal pedido para o cliente preencher pelo menos um dos campos a resgatar.
+
+
+#### 02 - Clicar em confirmar com um dos campos a resgatar com valor invalido
+- Clicar no investimento I
+- Digitar um valor acima do disponivel na primeira ação
+
+Ex: BBAS3 tem 11 mil de saldo, digitar 15 mil
+
+
+- Digitar um valor abaixo do disponivel na segunda ação
+
+Ex: VALE3 tem 8 mil disponivel, digitar 2 mil no valor a resgatar
+
+
+- **Resultado esperado:** Deve aparecer um modal alertando que foi digitado um valor invalido na ação BBAS3, que o maximo disponivel e XXXXX.
+
+
+#### 03 - Clicar em confirmar com todos os campos com valor validos
+- Clicar no investimento I
+- Digitar um valor acima igual o disponivel na primeira ação
+
+Ex: BBAS3 tem 11 mil de saldo, digitar 11 mil
+
+
+- Digitar um valor abaixo do disponivel na segunda ação
+
+Ex: VALE3 tem 8 mil disponivel, digitar 2 mil no valor a resgatar
+
+
+- **Resultado esperado:** Deve aparecer um modal com a mensagem que o resgate foi efetuado com sucesso, e quando clinar em novo resgate, voltar pra tela inicial.
+
 
 ### Entrega
 Enviar link do git com os testes para o email
